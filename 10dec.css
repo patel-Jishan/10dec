@@ -1,0 +1,15 @@
+p{
+	font-size:50px;
+	font-weight:900;
+	line-height:100px;
+	letter-spacing:5px;
+	word-spacing:20px;
+	text-indent:500px;
+}
+a{
+	color:red;
+	text-decoration:none;
+}
+ul{
+	list-style:none;
+}
